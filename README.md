@@ -49,7 +49,9 @@ In the deleteStudent method:
 
 When inputting the student ID, if the user enters a non-numeric value, a NumberFormatException is caught, and the program displays an error message and consumes the invalid input.
 These exception handling blocks ensure that the program gracefully handles invalid input by displaying appropriate error messages and consuming the invalid input, allowing the program to continue functioning without crashing.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
