@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Student Report Management System</title>
-</head>
-<body>
-    <pre>
-        <code>
-            import java.util.ArrayList;
+
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -383,9 +376,4 @@ class Student {
     }
 }
 
-            
-        </code>
-    </pre>
-</body>
-</html>
 
