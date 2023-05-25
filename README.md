@@ -1,4 +1,4 @@
-The "Student Report Management System" project is a Java program that allows users to manage and generate reports for student information. Here's an explanation of the code:
+This "Student Report Management System" project is a Java program that allows users to manage and generate reports for student information. Here's an explanation of the code:
 
 The program uses the Java Scanner class to read user input from the console.
 
